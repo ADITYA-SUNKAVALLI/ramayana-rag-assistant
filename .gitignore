@@ -1,0 +1,39 @@
+# Environment variables
+.env
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+
+# Large raw PDFs (avoid bloating repo)
+raw_pdf/*.pdf
+
+# Keep directory tracked
+!raw_pdf/.gitkeep
+
+# Virtual Environment
+venv/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Python cache
+.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build folders
+build/
+dist/
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter
+.ipynb_checkpoints/

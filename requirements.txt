@@ -1,0 +1,13 @@
+pdfplumber
+pymupdf
+pandas
+regex
+python-dotenv
+requests
+openai
+streamlit
+faiss-cpu
+sentence-transformers
+numpy
+tqdm
+#faiss-cpu==1.8.0

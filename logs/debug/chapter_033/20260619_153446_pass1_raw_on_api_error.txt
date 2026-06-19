@@ -1,0 +1,31 @@
+{
+  "kanda_en": "Ayodhya Kanda (Book of Ayodhya)",
+  "chapter_ordinal_en": "Chapter Thirty-Three",
+  "qa_pairs": [
+    {
+      "q_no": 1,
+      "question_en": "Having placed all his mothers in the inner apartments, Bharata, afflicted with grief, said to his guru Vasishtha, 'O Gurudeva! I cannot remain in Ayodhya without Shri Rama. Therefore, I shall go to a village near here and stay there for these fourteen years.' What is the name of that village?",
+      "answer_en": "Nandigrama"
+    },
+    {
+      "q_no": 2,
+      "question_en": "Rama dwelt for some time in the Chitrakuta region. One day during that period, Shri Rama perceived that the Ashrama-dwellers in the vicinity were thinking of leaving that region. He asked one Maharshi among them the reason. To that, he replied, 'The torment of the Rakshasas has increased in these parts. Among them, one is very powerful. O Rama! You too come with us; let us go far away and build Ashramas.' What is the name of that powerful Rakshasa?",
+      "answer_en": "Kharadushana (Kharadushana) — specifically Khara"
+    },
+    {
+      "q_no": 3,
+      "question_en": "After all the Rishis had left those Ashrama sites, Shri Rama reflected in various ways: Bharata, Kausalya and all his people had met him here; their memories still haunted him. Thinking that he should leave that place, he journeyed some distance and reached the Ashrama of a Maharshi. Whose Ashrama was that?",
+      "answer_en": "The Ashrama of Maharshi Atri — Ayodhya Kanda ends; 3. Aranya Kanda"
+    },
+    {
+      "q_no": 4,
+      "question_en": "To whom did Sita Devi narrate her marriage story, and in what manner?",
+      "answer_en": "From the Chitrakuta mountain region, Shri Rama, together with Sita and Lakshmana, reached the Ashrama of Maharshi Atri. Having saluted the Maharshi and revealed who he was, the Maharshi welcomed Shri Rama like his own son. Then Maharshi Atri introduced Sita Devi to his wife, Anasuya Devi. Anasuya Devi greatly welcomed and honoured Sita Devi. In the course of conversation, Anasuya Devi taught Sita Devi many duties of a devoted wife. At Anasuya Devi's request, Sita Devi narrated her marriage story, saying: 'O mother! King Janaka, the lord of Mithila city, is my father. While ploughing the earth for a Yajna for progeny, I emerged from a furrow in a casket, splitting the earth. The king Janaka took me into his arms, saying, "She is my daughter," and raised me with abundant affection. When I reached marriageable age, my father proclaimed a Swayamvara: "I will give my daughter to him who strings the bow of Shiva that has been in our lineage since the time of Devarata." Princes from various countries came but could not string it and returned. Then Rama, the elder among Rama and Lakshmana who came with Maharshi Vishvamitra, strung the bow of Shiva and won me. Then my father invited King Dasharatha, my father-in-law, and celebrated my marriage with Shri Rama with great splendour.' Thus Sita Devi narrated her marriage story to Anasuya Devi."
+    },
+    {
+      "q_no": 5,
+      "question_en": "How did Shri Rama leave the Ashrama of Maharshi Atri and enter the Dandaka forest?",
+      "answer_en": "Hearing the story of Sita Devi's marriage narrated by her, Anasuya Devi was delighted and said, 'O Sita! Now adorn yourself with these divine garments, ornaments, etc., that I have given you. I wish to see you thus adorned and be pleased.' Then Sita Devi wore those garments, ornaments, and flower garlands and saluted Anasuya Devi. Thereafter, when Sita Devi came before Shri Rama, seeing her adorned with the gifts given out of love by Anasuya Devi, Rama was greatly pleased. Rama and Lakshmana rejoiced, saying, 'Sita Devi has received hospitality that no human has ever obtained.' Afterwards, those Sita, Rama, and Lakshmana accepted the hospitality offered by the ascetics, spent the night there, and rose at dawn. Taking leave of the ascetics, they inquired about the path to Dandakaranya. Proceeding along the path shown by them, Shri Rama, the subduer of enemies, together with Sita and Lakshmana, entered that dense Dandaka forest like the sun entering a mass of clouds."
+    }
+  ]
+}

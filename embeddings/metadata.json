@@ -1,0 +1,1332 @@
+[
+  {
+    "id": "chapter_001",
+    "kanda": "Bala Kanda (Book of Childhood)",
+    "chapter_ordinal": "Chapter One",
+    "chapter_number": 1,
+    "sarga_range": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "id": "chapter_002",
+    "kanda": "Bala Kanda (Book of Childhood)",
+    "chapter_ordinal": "Chapter Two",
+    "chapter_number": 2,
+    "sarga_range": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "id": "chapter_003",
+    "kanda": "Bala Kanda (Book of Childhood)",
+    "chapter_ordinal": "Chapter Three",
+    "chapter_number": 3,
+    "sarga_range": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ]
+  },
+  {
+    "id": "chapter_004",
+    "kanda": "Bala Kanda (Book of Childhood)",
+    "chapter_ordinal": "Chapter Four",
+    "chapter_number": 4,
+    "sarga_range": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
+  },
+  {
+    "id": "chapter_005",
+    "kanda": "Bala Kanda (Book of Childhood)",
+    "chapter_ordinal": "Chapter Five",
+    "chapter_number": 5,
+    "sarga_range": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ]
+  },
+  {
+    "id": "chapter_006",
+    "kanda": "Bala Kanda (Book of Childhood)",
+    "chapter_ordinal": "Chapter Six",
+    "chapter_number": 6,
+    "sarga_range": [
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ]
+  },
+  {
+    "id": "chapter_007",
+    "kanda": "Bala Kanda (Book of Childhood)",
+    "chapter_ordinal": "Chapter Seven",
+    "chapter_number": 7,
+    "sarga_range": [
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": "chapter_008",
+    "kanda": "Bala Kanda (Book of Childhood)",
+    "chapter_ordinal": "Chapter Eight",
+    "chapter_number": 8,
+    "sarga_range": [
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49
+    ]
+  },
+  {
+    "id": "chapter_009",
+    "kanda": "Bala Kanda (Book of Childhood)",
+    "chapter_ordinal": "Chapter Nine",
+    "chapter_number": 9,
+    "sarga_range": [
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "id": "chapter_010",
+    "kanda": "Bala Kanda (Book of Childhood)",
+    "chapter_ordinal": "Chapter Ten",
+    "chapter_number": 10,
+    "sarga_range": [
+      57,
+      58,
+      59,
+      60,
+      61,
+      62
+    ]
+  },
+  {
+    "id": "chapter_011",
+    "kanda": "Bala Kanda (Book of Childhood)",
+    "chapter_ordinal": "Chapter Eleven",
+    "chapter_number": 11,
+    "sarga_range": [
+      63,
+      64,
+      65,
+      66,
+      67
+    ]
+  },
+  {
+    "id": "chapter_012",
+    "kanda": "Bala Kanda (Book of Childhood)",
+    "chapter_ordinal": "Chapter Twelve",
+    "chapter_number": 12,
+    "sarga_range": [
+      68,
+      69,
+      70,
+      71,
+      72
+    ]
+  },
+  {
+    "id": "chapter_013",
+    "kanda": "Bala Kanda (Book of Childhood)",
+    "chapter_ordinal": "Chapter Thirteen",
+    "chapter_number": 13,
+    "sarga_range": [
+      73,
+      74,
+      75,
+      76,
+      77
+    ]
+  },
+  {
+    "id": "chapter_014",
+    "kanda": "Ayodhya Kanda (Book of Ayodhya)",
+    "chapter_ordinal": "Chapter Fourteen",
+    "chapter_number": 14,
+    "sarga_range": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "id": "chapter_015",
+    "kanda": "Ayodhya Kanda (Book of Ayodhya)",
+    "chapter_ordinal": "Chapter Fifteen",
+    "chapter_number": 15,
+    "sarga_range": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "id": "chapter_016",
+    "kanda": "Ayodhya Kanda (Book of Ayodhya)",
+    "chapter_ordinal": "Chapter Sixteen",
+    "chapter_number": 16,
+    "sarga_range": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ]
+  },
+  {
+    "id": "chapter_017",
+    "kanda": "Ayodhya Kanda (Book of Ayodhya)",
+    "chapter_ordinal": "Chapter Seventeen",
+    "chapter_number": 17,
+    "sarga_range": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
+  },
+  {
+    "id": "chapter_018",
+    "kanda": "Ayodhya Kanda (Book of Ayodhya)",
+    "chapter_ordinal": "Chapter Eighteen",
+    "chapter_number": 18,
+    "sarga_range": [
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ]
+  },
+  {
+    "id": "chapter_019",
+    "kanda": "Ayodhya Kanda (Book of Ayodhya)",
+    "chapter_ordinal": "Chapter Nineteen",
+    "chapter_number": 19,
+    "sarga_range": [
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ]
+  },
+  {
+    "id": "chapter_020",
+    "kanda": "Ayodhya Kanda (Book of Ayodhya)",
+    "chapter_ordinal": "Chapter Twenty",
+    "chapter_number": 20,
+    "sarga_range": [
+      37,
+      38,
+      39,
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "id": "chapter_021",
+    "kanda": "Ayodhya Kanda (Book of Ayodhya)",
+    "chapter_ordinal": "Chapter Twenty-One",
+    "chapter_number": 21,
+    "sarga_range": [
+      43,
+      44,
+      45,
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": "chapter_022",
+    "kanda": "Ayodhya Kanda (Book of Ayodhya)",
+    "chapter_ordinal": "Chapter Twenty-Two",
+    "chapter_number": 22,
+    "sarga_range": [
+      49,
+      50,
+      51,
+      52,
+      53,
+      54
+    ]
+  },
+  {
+    "id": "chapter_023",
+    "kanda": "Ayodhya Kanda (Book of Ayodhya)",
+    "chapter_ordinal": "Chapter Twenty-Three",
+    "chapter_number": 23,
+    "sarga_range": [
+      55,
+      56,
+      57,
+      58,
+      59,
+      60
+    ]
+  },
+  {
+    "id": "chapter_024",
+    "kanda": "Ayodhya Kanda (Book of Ayodhya)",
+    "chapter_ordinal": "Chapter Twenty-Four",
+    "chapter_number": 24,
+    "sarga_range": [
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ]
+  },
+  {
+    "id": "chapter_025",
+    "kanda": "Ayodhya Kanda (Book of Ayodhya)",
+    "chapter_ordinal": "Chapter Twenty-Five",
+    "chapter_number": 25,
+    "sarga_range": [
+      67,
+      68,
+      69,
+      70,
+      71,
+      72
+    ]
+  },
+  {
+    "id": "chapter_026",
+    "kanda": "Ayodhya Kanda (Book of Ayodhya)",
+    "chapter_ordinal": "Chapter Twenty-Six",
+    "chapter_number": 26,
+    "sarga_range": [
+      73,
+      74,
+      75,
+      76,
+      77,
+      78
+    ]
+  },
+  {
+    "id": "chapter_027",
+    "kanda": "Ayodhya Kanda (Book of Ayodhya)",
+    "chapter_ordinal": "Twenty-Seventh Chapter",
+    "chapter_number": 27,
+    "sarga_range": [
+      79,
+      80,
+      81,
+      82,
+      83,
+      84
+    ]
+  },
+  {
+    "id": "chapter_028",
+    "kanda": "Ayodhya Kanda (Book of Ayodhya)",
+    "chapter_ordinal": "Chapter Twenty-Eight",
+    "chapter_number": 28,
+    "sarga_range": [
+      85,
+      86,
+      87,
+      88,
+      89,
+      90
+    ]
+  },
+  {
+    "id": "chapter_029",
+    "kanda": "Ayodhya Kanda (Book of Ayodhya)",
+    "chapter_ordinal": "Chapter Twenty-Nine",
+    "chapter_number": 29,
+    "sarga_range": [
+      91,
+      92,
+      93,
+      94,
+      95,
+      96
+    ]
+  },
+  {
+    "id": "chapter_030",
+    "kanda": "Ayodhya Kanda (Book of Ayodhya)",
+    "chapter_ordinal": "Chapter Thirty",
+    "chapter_number": 30,
+    "sarga_range": [
+      97,
+      98,
+      99,
+      100,
+      101,
+      102
+    ]
+  },
+  {
+    "id": "chapter_031",
+    "kanda": "Ayodhya Kanda (Book of Ayodhya)",
+    "chapter_ordinal": "Chapter Thirty-One",
+    "chapter_number": 31,
+    "sarga_range": [
+      103,
+      104,
+      105,
+      106,
+      107,
+      108
+    ]
+  },
+  {
+    "id": "chapter_032",
+    "kanda": "Ayodhya Kanda (Book of Ayodhya)",
+    "chapter_ordinal": "Chapter Thirty-Two",
+    "chapter_number": 32,
+    "sarga_range": [
+      109,
+      110,
+      111,
+      112,
+      113,
+      114
+    ]
+  },
+  {
+    "id": "chapter_033",
+    "kanda": "Ayodhya Kanda (Book of Ayodhya)",
+    "chapter_ordinal": "Chapter Thirty-Three",
+    "chapter_number": 33,
+    "sarga_range": [
+      115,
+      116,
+      117,
+      118,
+      119
+    ]
+  },
+  {
+    "id": "chapter_034",
+    "kanda": "Aranya Kanda (Book of the Forest)",
+    "chapter_ordinal": "Chapter Thirty-Four",
+    "chapter_number": 34,
+    "sarga_range": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "id": "chapter_035",
+    "kanda": "Aranya Kanda (Book of the Forest)",
+    "chapter_ordinal": "Chapter Thirty-Five",
+    "chapter_number": 35,
+    "sarga_range": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "id": "chapter_036",
+    "kanda": "Aranya Kanda (Book of the Forest)",
+    "chapter_ordinal": "Chapter Thirty-Six",
+    "chapter_number": 36,
+    "sarga_range": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17
+    ]
+  },
+  {
+    "id": "chapter_037",
+    "kanda": "Aranya Kanda (Book of the Forest)",
+    "chapter_ordinal": "Chapter Thirty-Seven",
+    "chapter_number": 37,
+    "sarga_range": [
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ]
+  },
+  {
+    "id": "chapter_038",
+    "kanda": "Aranya Kanda (Book of the Forest)",
+    "chapter_ordinal": "Chapter Thirty-Eight",
+    "chapter_number": 38,
+    "sarga_range": [
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ]
+  },
+  {
+    "id": "chapter_039",
+    "kanda": "Aranya Kanda (Book of the Forest)",
+    "chapter_ordinal": "Chapter Thirty-Nine",
+    "chapter_number": 39,
+    "sarga_range": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ]
+  },
+  {
+    "id": "chapter_040",
+    "kanda": "Aranya Kanda (Book of the Forest)",
+    "chapter_ordinal": "Chapter Forty",
+    "chapter_number": 40,
+    "sarga_range": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ]
+  },
+  {
+    "id": "chapter_041",
+    "kanda": "Aranya Kanda (Book of the Forest)",
+    "chapter_ordinal": "Chapter Forty-One",
+    "chapter_number": 41,
+    "sarga_range": [
+      42,
+      43,
+      44,
+      45,
+      46,
+      47
+    ]
+  },
+  {
+    "id": "chapter_042",
+    "kanda": "Aranya Kanda (Book of the Forest)",
+    "chapter_ordinal": "Chapter Forty-Two",
+    "chapter_number": 42,
+    "sarga_range": [
+      48,
+      49,
+      50,
+      51,
+      52,
+      53
+    ]
+  },
+  {
+    "id": "chapter_043",
+    "kanda": "Aranya Kanda (Book of the Forest)",
+    "chapter_ordinal": "Chapter Forty-Three",
+    "chapter_number": 43,
+    "sarga_range": [
+      54,
+      55,
+      56,
+      57,
+      58
+    ]
+  },
+  {
+    "id": "chapter_044",
+    "kanda": "Aranya Kanda (Book of the Forest)",
+    "chapter_ordinal": "Chapter Forty-Four",
+    "chapter_number": 44,
+    "sarga_range": [
+      59,
+      60,
+      61,
+      62,
+      63,
+      64
+    ]
+  },
+  {
+    "id": "chapter_045",
+    "kanda": "Aranya Kanda (Book of the Forest)",
+    "chapter_ordinal": "Chapter Forty-Five",
+    "chapter_number": 45,
+    "sarga_range": [
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ]
+  },
+  {
+    "id": "chapter_046",
+    "kanda": "Aranya Kanda (Book of the Forest)",
+    "chapter_ordinal": "Chapter Forty-Six",
+    "chapter_number": 46,
+    "sarga_range": [
+      71,
+      72,
+      73,
+      74,
+      75
+    ]
+  },
+  {
+    "id": "chapter_047",
+    "kanda": "Kishkindha Kanda (Book of Kishkindha)",
+    "chapter_ordinal": "Chapter Forty-Seven",
+    "chapter_number": 47,
+    "sarga_range": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "id": "chapter_048",
+    "kanda": "Kishkindha Kanda (Book of Kishkindha)",
+    "chapter_ordinal": "Chapter Forty-Eight",
+    "chapter_number": 48,
+    "sarga_range": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "id": "chapter_049",
+    "kanda": "Kishkindha Kanda (Book of Kishkindha)",
+    "chapter_ordinal": "Chapter Forty-Nine",
+    "chapter_number": 49,
+    "sarga_range": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ]
+  },
+  {
+    "id": "chapter_050",
+    "kanda": "Kishkindha Kanda (Book of Kishkindha)",
+    "chapter_ordinal": "Chapter Fifty",
+    "chapter_number": 50,
+    "sarga_range": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24
+    ]
+  },
+  {
+    "id": "chapter_051",
+    "kanda": "Kishkindha Kanda (Book of Kishkindha)",
+    "chapter_ordinal": "Chapter Fifty-One",
+    "chapter_number": 51,
+    "sarga_range": [
+      25,
+      26,
+      27,
+      28,
+      29
+    ]
+  },
+  {
+    "id": "chapter_052",
+    "kanda": "Kishkindha Kanda (Book of Kishkindha)",
+    "chapter_ordinal": "Chapter Fifty-Two",
+    "chapter_number": 52,
+    "sarga_range": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ]
+  },
+  {
+    "id": "chapter_053",
+    "kanda": "Kishkindha Kanda (Book of Kishkindha)",
+    "chapter_ordinal": "Chapter Fifty-Three",
+    "chapter_number": 53,
+    "sarga_range": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ]
+  },
+  {
+    "id": "chapter_054",
+    "kanda": "Kishkindha Kanda (Book of Kishkindha)",
+    "chapter_ordinal": "Chapter Fifty-Four",
+    "chapter_number": 54,
+    "sarga_range": [
+      42,
+      43,
+      44,
+      45,
+      46,
+      47
+    ]
+  },
+  {
+    "id": "chapter_055",
+    "kanda": "Kishkindha Kanda (Book of Kishkindha)",
+    "chapter_ordinal": "Fifty-Fifth Chapter",
+    "chapter_number": 55,
+    "sarga_range": [
+      48,
+      49,
+      50,
+      51,
+      52,
+      53
+    ]
+  },
+  {
+    "id": "chapter_056",
+    "kanda": "Kishkindha Kanda (Book of Kishkindha)",
+    "chapter_ordinal": "Fifty-Sixth Chapter",
+    "chapter_number": 56,
+    "sarga_range": [
+      53,
+      54,
+      55,
+      56,
+      57
+    ]
+  },
+  {
+    "id": "chapter_057",
+    "kanda": "Kishkindha Kanda (Book of Kishkindha)",
+    "chapter_ordinal": "Fifty-Seventh Chapter",
+    "chapter_number": 57,
+    "sarga_range": [
+      58,
+      59,
+      60,
+      61,
+      62
+    ]
+  },
+  {
+    "id": "chapter_058",
+    "kanda": "Kishkindha Kanda (Book of Kishkindha)",
+    "chapter_ordinal": "Chapter Fifty-Eight",
+    "chapter_number": 58,
+    "sarga_range": [
+      63,
+      64,
+      65,
+      66,
+      67
+    ]
+  },
+  {
+    "id": "chapter_059",
+    "kanda": "Sundara Kanda (Book of Beauty)",
+    "chapter_ordinal": "Chapter Fifty-Nine",
+    "chapter_number": 59,
+    "sarga_range": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "id": "chapter_060",
+    "kanda": "Sundara Kanda (Book of Beauty)",
+    "chapter_ordinal": "Chapter Sixty",
+    "chapter_number": 60,
+    "sarga_range": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  {
+    "id": "chapter_061",
+    "kanda": "Sundara Kanda (Book of Beauty)",
+    "chapter_ordinal": "Chapter Sixty-One",
+    "chapter_number": 61,
+    "sarga_range": [
+      12,
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": "chapter_062",
+    "kanda": "Sundara Kanda (Book of Beauty)",
+    "chapter_ordinal": "Chapter Sixty-Two",
+    "chapter_number": 62,
+    "sarga_range": [
+      17,
+      18,
+      19,
+      20,
+      21
+    ]
+  },
+  {
+    "id": "chapter_063",
+    "kanda": "Sundara Kanda (Book of Beauty)",
+    "chapter_ordinal": "Chapter Sixty-Three",
+    "chapter_number": 63,
+    "sarga_range": [
+      22,
+      23,
+      24,
+      25,
+      26
+    ]
+  },
+  {
+    "id": "chapter_064",
+    "kanda": "Sundara Kanda (Book of Beauty)",
+    "chapter_ordinal": "Chapter Sixty-Four",
+    "chapter_number": 64,
+    "sarga_range": [
+      27,
+      28,
+      29,
+      30,
+      31
+    ]
+  },
+  {
+    "id": "chapter_065",
+    "kanda": "Sundara Kanda (Book of Beauty)",
+    "chapter_ordinal": "Chapter Sixty-Five",
+    "chapter_number": 65,
+    "sarga_range": [
+      32,
+      33,
+      34,
+      35,
+      36
+    ]
+  },
+  {
+    "id": "chapter_066",
+    "kanda": "Sundara Kanda (Book of Beauty)",
+    "chapter_ordinal": "Chapter Sixty-Six",
+    "chapter_number": 66,
+    "sarga_range": [
+      37,
+      38,
+      39,
+      40
+    ]
+  },
+  {
+    "id": "chapter_067",
+    "kanda": "Sundara Kanda (Book of Beauty)",
+    "chapter_ordinal": "Chapter Sixty-Seven",
+    "chapter_number": 67,
+    "sarga_range": [
+      41,
+      42,
+      43,
+      44
+    ]
+  },
+  {
+    "id": "chapter_068",
+    "kanda": "Sundara Kanda (Book of Beauty)",
+    "chapter_ordinal": "Chapter Sixty-Eight",
+    "chapter_number": 68,
+    "sarga_range": [
+      45,
+      46,
+      47,
+      48
+    ]
+  },
+  {
+    "id": "chapter_069",
+    "kanda": "Sundara Kanda (Book of Beauty)",
+    "chapter_ordinal": "Chapter Sixty-Nine",
+    "chapter_number": 69,
+    "sarga_range": [
+      49,
+      50,
+      51,
+      52
+    ]
+  },
+  {
+    "id": "chapter_070",
+    "kanda": "Sundara Kanda (Book of Beauty)",
+    "chapter_ordinal": "Chapter Seventy",
+    "chapter_number": 70,
+    "sarga_range": [
+      53,
+      54,
+      55,
+      56
+    ]
+  },
+  {
+    "id": "chapter_071",
+    "kanda": "Sundara Kanda (Book of Beauty)",
+    "chapter_ordinal": "Chapter Seventy-One",
+    "chapter_number": 71,
+    "sarga_range": [
+      57,
+      58,
+      59,
+      60
+    ]
+  },
+  {
+    "id": "chapter_072",
+    "kanda": "Sundara Kanda (Book of Beauty)",
+    "chapter_ordinal": "Chapter Seventy-Two",
+    "chapter_number": 72,
+    "sarga_range": [
+      61,
+      62,
+      63,
+      64
+    ]
+  },
+  {
+    "id": "chapter_073",
+    "kanda": "Sundara Kanda (Book of Beauty)",
+    "chapter_ordinal": "Chapter Seventy-Three",
+    "chapter_number": 73,
+    "sarga_range": [
+      65,
+      66,
+      67,
+      68
+    ]
+  },
+  {
+    "id": "chapter_074",
+    "kanda": "Yuddha Kanda (Book of War)",
+    "chapter_ordinal": "Chapter Seventy-Four",
+    "chapter_number": 74,
+    "sarga_range": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "id": "chapter_075",
+    "kanda": "Yuddha Kanda (Book of War)",
+    "chapter_ordinal": "Seventy-Fifth Chapter",
+    "chapter_number": 75,
+    "sarga_range": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "id": "chapter_076",
+    "kanda": "Yuddha Kanda (Book of War)",
+    "chapter_ordinal": "Chapter Seventy-Six",
+    "chapter_number": 76,
+    "sarga_range": [
+      9,
+      10,
+      11,
+      12
+    ]
+  },
+  {
+    "id": "chapter_077",
+    "kanda": "Yuddha Kanda (Book of War)",
+    "chapter_ordinal": "Seventy-Seventh Chapter",
+    "chapter_number": 77,
+    "sarga_range": [
+      13,
+      14,
+      15,
+      16
+    ]
+  },
+  {
+    "id": "chapter_078",
+    "kanda": "Yuddha Kanda (Book of War)",
+    "chapter_ordinal": "Chapter Seventy-Eight",
+    "chapter_number": 78,
+    "sarga_range": [
+      17,
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "id": "chapter_079",
+    "kanda": "Yuddha Kanda (Book of War)",
+    "chapter_ordinal": "Chapter Seventy-Nine",
+    "chapter_number": 79,
+    "sarga_range": [
+      21,
+      22,
+      23,
+      24
+    ]
+  },
+  {
+    "id": "chapter_080",
+    "kanda": "Yuddha Kanda (Book of War)",
+    "chapter_ordinal": "Chapter Eighty",
+    "chapter_number": 80,
+    "sarga_range": [
+      25,
+      26,
+      27,
+      28,
+      29
+    ]
+  },
+  {
+    "id": "chapter_081",
+    "kanda": "Yuddha Kanda (Book of War)",
+    "chapter_ordinal": "Chapter Eighty-One",
+    "chapter_number": 81,
+    "sarga_range": [
+      30,
+      31,
+      32,
+      33,
+      34
+    ]
+  },
+  {
+    "id": "chapter_082",
+    "kanda": "Yuddha Kanda (Book of War)",
+    "chapter_ordinal": "Chapter Eighty-Two",
+    "chapter_number": 82,
+    "sarga_range": [
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  {
+    "id": "chapter_083",
+    "kanda": "Yuddha Kanda (Book of War)",
+    "chapter_ordinal": "Eighty-Third Chapter",
+    "chapter_number": 83,
+    "sarga_range": [
+      40,
+      41,
+      42,
+      43,
+      44
+    ]
+  },
+  {
+    "id": "chapter_084",
+    "kanda": "Yuddha Kanda (Book of War)",
+    "chapter_ordinal": "Chapter Eighty-Four",
+    "chapter_number": 84,
+    "sarga_range": [
+      45,
+      46,
+      47,
+      48,
+      49
+    ]
+  },
+  {
+    "id": "chapter_085",
+    "kanda": "Yuddha Kanda (Book of War)",
+    "chapter_ordinal": "Eighty-fifth Chapter",
+    "chapter_number": 85,
+    "sarga_range": [
+      50,
+      51,
+      52,
+      53,
+      54
+    ]
+  },
+  {
+    "id": "chapter_086",
+    "kanda": "Yuddha Kanda (Book of War)",
+    "chapter_ordinal": "Chapter Eighty-Six",
+    "chapter_number": 86,
+    "sarga_range": [
+      55,
+      56,
+      57,
+      58,
+      59
+    ]
+  },
+  {
+    "id": "chapter_087",
+    "kanda": "Yuddha Kanda (Book of War)",
+    "chapter_ordinal": "Eighty-Seventh Chapter",
+    "chapter_number": 87,
+    "sarga_range": [
+      60,
+      61,
+      62,
+      63,
+      64
+    ]
+  },
+  {
+    "id": "chapter_088",
+    "kanda": "Yuddha Kanda (Book of War)",
+    "chapter_ordinal": "Eighty-Eighth Chapter",
+    "chapter_number": 88,
+    "sarga_range": [
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ]
+  },
+  {
+    "id": "chapter_089",
+    "kanda": "Yuddha Kanda (Book of War)",
+    "chapter_ordinal": "Chapter Eighty-Nine",
+    "chapter_number": 89,
+    "sarga_range": [
+      71,
+      72,
+      73,
+      74,
+      75
+    ]
+  },
+  {
+    "id": "chapter_090",
+    "kanda": "Yuddha Kanda (Book of War)",
+    "chapter_ordinal": "Chapter Ninety",
+    "chapter_number": 90,
+    "sarga_range": [
+      76,
+      77,
+      78,
+      79,
+      80,
+      81
+    ]
+  },
+  {
+    "id": "chapter_091",
+    "kanda": "Yuddha Kanda (Book of War)",
+    "chapter_ordinal": "Chapter Ninety-One",
+    "chapter_number": 91,
+    "sarga_range": [
+      82,
+      83,
+      84,
+      85,
+      86,
+      87
+    ]
+  },
+  {
+    "id": "chapter_092",
+    "kanda": "Yuddha Kanda (Book of War)",
+    "chapter_ordinal": "Chapter Ninety-Two",
+    "chapter_number": 92,
+    "sarga_range": [
+      88,
+      89,
+      90,
+      91,
+      92,
+      93
+    ]
+  },
+  {
+    "id": "chapter_093",
+    "kanda": "Yuddha Kanda (Book of War)",
+    "chapter_ordinal": "Chapter Ninety-Three",
+    "chapter_number": 93,
+    "sarga_range": [
+      94,
+      95,
+      96,
+      97,
+      98,
+      99
+    ]
+  },
+  {
+    "id": "chapter_094",
+    "kanda": "Yuddha Kanda (Book of War)",
+    "chapter_ordinal": "Chapter Ninety-Four",
+    "chapter_number": 94,
+    "sarga_range": [
+      100,
+      101,
+      102,
+      103,
+      104,
+      105,
+      106
+    ]
+  },
+  {
+    "id": "chapter_095",
+    "kanda": "Yuddha Kanda (Book of War)",
+    "chapter_ordinal": "Ninety-fifth Chapter",
+    "chapter_number": 95,
+    "sarga_range": [
+      107,
+      108,
+      109,
+      110,
+      111
+    ]
+  },
+  {
+    "id": "chapter_096",
+    "kanda": "Yuddha Kanda (Book of War)",
+    "chapter_ordinal": "Chapter Ninety-Six",
+    "chapter_number": 96,
+    "sarga_range": [
+      112,
+      113,
+      114,
+      115,
+      116
+    ]
+  },
+  {
+    "id": "chapter_097",
+    "kanda": "Yuddha Kanda (Book of War)",
+    "chapter_ordinal": "Ninety-Seventh Chapter",
+    "chapter_number": 97,
+    "sarga_range": [
+      117,
+      118,
+      119,
+      120,
+      121
+    ]
+  },
+  {
+    "id": "chapter_098",
+    "kanda": "Yuddha Kanda (Book of War)",
+    "chapter_ordinal": "Chapter Ninety-Eight",
+    "chapter_number": 98,
+    "sarga_range": [
+      122,
+      123,
+      124,
+      125,
+      126
+    ]
+  },
+  {
+    "id": "chapter_099",
+    "kanda": "Yuddha Kanda (Book of War)",
+    "chapter_ordinal": "Chapter Ninety-Nine",
+    "chapter_number": 99,
+    "sarga_range": [
+      127,
+      128,
+      129,
+      130,
+      131
+    ]
+  }
+]

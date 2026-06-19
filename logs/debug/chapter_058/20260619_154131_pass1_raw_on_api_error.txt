@@ -1,0 +1,31 @@
+{
+  "kanda_en": "Kishkindha Kanda (Book of Kishkindha)",
+  "chapter_ordinal_en": "Chapter Fifty-Eight",
+  "qa_pairs": [
+    {
+      "q_no": 1,
+      "question_en": "While the foremost Vanaras were watching, Sampati's wings grew back. Then Sampati, looking at his wings with great delight, said, 'O Vanaras! As Nisakara Maharshi said, my wings have grown back. In that same manner, you will also be able to find the trace of Mother Sita.' What color were Sampati's wings that grew back?",
+      "answer_en": "Red color"
+    },
+    {
+      "q_no": 2,
+      "question_en": "After Sampati encouraged the foremost Vanaras and departed, they all spent that night there, and rising at dawn, who asked, 'O foremost Vanaras! Whoever among you can leap over this ocean of a hundred yojanas and accomplish Rama's task, give me your assurance'?",
+      "answer_en": "Angada"
+    },
+    {
+      "q_no": 3,
+      "question_en": "As part of declaring their strength and capabilities in leaping over the ocean, how many yojanas did Jambavan say he could go?",
+      "answer_en": "Ninety yojanas - End of Kishkindha Kanda - 5. Sundara Kanda"
+    },
+    {
+      "q_no": 4,
+      "question_en": "How did Jambavan inspire Hanuman for the ocean leap?",
+      "answer_en": "Observing that the Vanara army, numbering many lakhs, was plunged in grief, Jambavan, intending to inspire Hanuman, said, 'O Anjaneya! You are matchless among all Vanaras. You know all the scriptures. O son of Vayu! In your splendor and in strength and valor, you are in no way inferior to Sugriva or Rama and Lakshmana. O Hanuma! The foremost of Apsaras, "Punjakasthala", due to a curse, was born on earth as the goddess Anjana. She became the wife of the foremost Vanara named Kesari. Being a Kama-rupini (one who can assume any form at will), she was adorned with all ornaments in human form, sporting on a mountain peak, when Vayu, captivated by the beauty of her form and youth, embraced her. Anjana Devi was frightened by the unexpected occurrence. Then Vayu Deva said, 'O beautiful one! Though I have embraced you, no blemish will come to you. Do not fear. A special being, of great prowess and intelligence, will be born to you.' Having said thus, he departed. Then your mother gave birth to you. When you, thinking the rising sun to be a fruit, went towards it, Indra obstructed you. Enraged at that, Vayu caused all the worlds to become still. Then all the Devas, becoming propitiated, gave you many kinds of boons. Therefore, O Hanuma! Among all those here, you alone are fit for leaping over the ocean. Hence, arise at once!' Thus Jambavan inspired Hanuman."
+    },
+    {
+      "q_no": 5,
+      "question_en": "How did Hanuman become determined for the ocean leap?",
+      "answer_en": "To immediately cross the ocean extending a hundred yojanas, that Maruti gathered his prowess within himself and began to increase his wonderful form. Seeing that great hero, the entire Vanara army abandoned their grief and praised Hanuman. Shouting loudly, they were filled with supreme joy and wonder. Then Hanuman, pleased with the praises of the Vanaras, raised his tail, further intensified his strength, and began to grow. Then the form of that great being was wonderful. Then Anjaneya said, 'I will leap over this ocean, reach Lanka, and behold Mother Sita. May you all rejoice at that! I am confident that I can leap even thousands of yojanas.' As that foremost of Vanaras, endowed with splendor and strength, Hanuman spoke thus, all those Vanaras gazed at that lord with joy and wonder. Then Maruti said to Jambavan, 'This ordinary earth cannot bear my foot as I plant it to leap. Therefore, I will plant my foot on the Mahandra mountain and leap over the ocean from there.' Then he climbed the Mahandra mountain and, with concentrated mind, began to think about Lanka in his heart."
+    }
+  ]
+}
