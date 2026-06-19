@@ -186,13 +186,29 @@ python scripts/01_extract.py
 
 ### Step 2
 
+Merge Batches
+
+```bash
+python scripts/01b_merge_batches.py
+```
+
+### Step 3
+
 Clean and Parse
 
 ```bash
 python scripts/02_clean_and_parse.py
 ```
 
-### Step 3
+### Step 4
+
+Clening
+
+```bash
+python scripts/fix_common_ocr.py
+
+
+### Step 5
 
 Translate
 
@@ -200,7 +216,14 @@ Translate
 python scripts/03_translate.py
 ```
 
-### Step 4
+### Step 6
+
+Rag final chapters`
+
+```bash
+python scripts/04_strip_for_rag.py
+
+### Step 7
 
 Prepare Documents
 
@@ -208,7 +231,7 @@ Prepare Documents
 python scripts/05_prepare_documents.py
 ```
 
-### Step 5
+### Step 8
 
 Generate Embeddings
 
@@ -216,7 +239,7 @@ Generate Embeddings
 python scripts/06_generate_embeddings.py
 ```
 
-### Step 6
+### Step 9
 
 Build FAISS Index
 
