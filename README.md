@@ -206,6 +206,7 @@ Cleaning OCR
 
 ```bash
 python scripts/fix_common_ocr.py
+```
 
 
 ### Step 5
@@ -222,6 +223,7 @@ Rag final chapters`
 
 ```bash
 python scripts/04_strip_for_rag.py
+```
 
 ### Step 7
 
