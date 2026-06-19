@@ -133,9 +133,9 @@ RAMAYANA-RAG-PIPELINE/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ramayana-rag.git
+git clone https://github.com/ADITYA-SUNKAVALLI/ramayana-rag-assistant.git
 
-cd ramayana-rag
+cd ramayana-rag-assistant
 ```
 
 ---
