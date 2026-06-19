@@ -31,6 +31,12 @@ Ramayana PDF
 Extracted Text Batches
       │
       ▼
+01b_merge_batches.py
+      │
+      ▼
+full_corpus.txt
+      │
+      ▼
 02_clean_and_parse.py
       │
       ▼
@@ -47,6 +53,9 @@ all_chapters_fixed.jsonl
       │
       ▼
 all_chapters_en.jsonl
+      │
+      ▼
+04_strip_for_rag.py
       │
       ▼
 rag_final_chapters.jsonl
