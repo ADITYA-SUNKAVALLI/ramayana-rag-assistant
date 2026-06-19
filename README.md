@@ -202,7 +202,7 @@ python scripts/02_clean_and_parse.py
 
 ### Step 4
 
-Clening
+Cleaning OCR
 
 ```bash
 python scripts/fix_common_ocr.py
